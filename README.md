@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ushindhi
 - 👀 I’m interested in self development
 - 🌱 I’m currently learning full stack web development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ushindhi@gmail.com
 
 <!---
